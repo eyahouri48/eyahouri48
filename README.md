@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-#  About Me:
+##  About Me:
 🎓 Computer Engineering student from Tunisia.<br><br>🔎Curious by default.  <br>🧪Experimental by choice.<br><br>I believe in self-learning, experimentation, and making mistakes useful.<br><br>
 
 # 💻 Tech Stack:
